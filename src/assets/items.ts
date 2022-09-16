@@ -6,25 +6,27 @@ import dribbble from '../assets/dribbble.png'
 import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
+import confin from '../assets/confin.png'
+import tcid from '../assets/tcid.png'
 import { ItemType } from '../ts';
 
 const items: ItemType[] = [{
-    "title": "Website",
-    "subtitle": "Look at my work!",
-    "image": website,
-    "link": "https://sagniksahoo.codes" //your personal website or portfolio  link
+    "title": "PBR",
+    "subtitle": "SCHEDULE DAILY !!!",
+    "image": confin,
+    "link": "https://trans-cosmos.larksuite.com/sheets/shtusVekuT1KTKJ4sTAOIIV0EDd?sheet=xkZfgT" //your personal website or portfolio  link
 },
 {
     "title": "GitHub",
-    "subtitle": "@heysagnik | 🏡 to all my open-source projects",
+    "subtitle": "@pmd.fajr_ | 🏡 Link to PBR Moderation TKTK",
     "image": github,
-    "link": "https://github.com/heysagnik" //Github Profile link
+    "link": "https://bytedance.feishu.cn/sheets/shtcnkWR3CEsnQIbUz1hpnMbAfc" //Github Profile link
 },
 {
-    "title": "Instagram",
-    "subtitle": "@heysagnik |  Shots of my life 🙂",
-    "image": instagram,
-    "link": "https://instagram.com/heysagnik" //instagram profile link 
+    "title": "Attendance",
+    "subtitle": "@pmd.fajr_ |  Link Attendance TCID 🙂",
+    "image": tcid,
+    "link": "https://att.trans-cosmos.id" //instagram profile link 
 },
 {
     "title": "Twitter",
